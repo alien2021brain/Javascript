@@ -17,3 +17,5 @@ function min() {
 }
 console.log(max());
 console.log(min());
+console.log(2 === "2");
+console.log(2 == "2");
